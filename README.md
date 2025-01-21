@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.2.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# My_Profile
+This is an angular application for my profile it include my basic details, my technical skills, professional experience, projects, education and certifications,
+>>>>>>> 023da73b732afa3a3af5d978adac6807b7a02cd8
